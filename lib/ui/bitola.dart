@@ -29,7 +29,7 @@ class _CalculadoraBitolaScreenState extends State<bitola> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Bitola do Willian'),
+        title: Text('Bitola'),
         backgroundColor: Colors.blueGrey,
       ),
       body: Padding(
